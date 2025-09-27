@@ -35,7 +35,7 @@ cd main.py
 
 2. Execute o programa:
 
-python d_mail.py
+python main.py
 
 
 ---
