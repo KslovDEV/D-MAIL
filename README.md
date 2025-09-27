@@ -30,7 +30,7 @@ pip install schedule keyring
 
 1. Clone o repositório:
 
-git clone https://github.com/SEU_USUARIO/D-Mail.git
+git clone https://github.com/KslovDEV/D-MAIL.git
 cd D-Mail
 
 2. Execute o programa:
